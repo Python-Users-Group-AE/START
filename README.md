@@ -1,36 +1,21 @@
 <h1> Table of Contents </h1>
 
 - [Getting Started](#getting-started)
-  - [Installing Python](#installing-python)
-  - [VSCode](#vscode)
 - [Basics](#basics)
+  - [Virtual Environment](#virtual-environment)
 - [Resources](#resources)
 
 # Getting Started
 
-Installing [basic python](#installing-python) and the [VSCode](#vscode) should set up all the fundamentals to get started with your programming. The combination of two softwares should let you open and work with a myriad of file extensions including, but not limited to: Python files(`.py`), Jupyter Notebooks(`.ipynb`), Markdown(`.md`), etc
-
-## Installing Python
-
-1. [Download the latest version of Python](https://www.python.org/downloads/) directly from python.org and run the `.exe` file.
-2. ![Step1](./assets/python-install-step1.png)
-3. ![Step2](./assets/python-install-step2.png)
-4. ![Step3](./assets/python-install-step3.png)
-
-## VSCode
-
-1. Download VSCode from [offical source](https://code.visualstudio.com/download) and run the `.exe` file.
-2. Open `VSCode` after installation and navigate to the extensions menu (`View` > `Extensions`)
-3. Search and install the following extensions:
-   1. ms-toolsai.jupyter
-   2. magicstack.MagicPython
-   3. ms-python.vscode-pylance
-   4. donjayamanne.python-extension-pack
-   5. yzhang.markdown-all-in-one
+Installing basic python and the VSCode (refer to [install.md](./instructions/install.md) for installation instructions) should set up all the fundamentals to get started with your programming. The combination of two softwares should let you open and work with a myriad of file extensions including, but not limited to: Python files(`.py`), Jupyter Notebooks(`.ipynb`), Markdown(`.md`), etc
 
 # Basics
 
-For basics such as "virtual environment" refer to [basics.md](./basics.md)
+## Virtual Environment
+
+A Python virtual environment, often referred to as `venv`, is a tool that helps to keep dependencies required by different projects separate by creating isolated Python virtual environments for them. 
+
+For more info on "when", "why" and "how" to use a virtual environement, refer to [virtual_environments.md](./instructions/virtual_environments.md)
 
 # Resources
 
@@ -54,6 +39,7 @@ For basics such as "virtual environment" refer to [basics.md](./basics.md)
 | [Python Tutor](https://pythontutor.com/render.html#mode=edit) | |
 | [VSCode Download Link](https://code.visualstudio.com/docs/setup/windows#:~:text=VS%20Code%20provides%20both%20Windows,a%20smoother%20background%20update%20experience)| |
 | [Anaconda Distribution](https://www.anaconda.com/download/) | |
+| [Basics Cheatsheet](https://notes.rpakishore.co.in/shares/lKLcommJN1Xeqx00UUY1n2) | Python cheatsheet, created and maintained by [Arun Kishore](https://github.com/rpakishore) |
 
 <h3> Others </h3>
 
