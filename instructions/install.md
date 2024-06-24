@@ -7,9 +7,9 @@
 # Installing Python
 
 1. [Download the latest version of Python](https://www.python.org/downloads/) directly from python.org and run the `.exe` file.
-2. ![Step1](./assets/python-install-step1.png)
-3. ![Step2](./assets/python-install-step2.png)
-4. ![Step3](./assets/python-install-step3.png)
+2. ![Step1](../assets/python-install-step1.png)
+3. ![Step2](../assets/python-install-step2.png)
+4. ![Step3](../assets/python-install-step3.png)
 
 # VSCode
 

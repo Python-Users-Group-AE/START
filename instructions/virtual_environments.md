@@ -50,6 +50,6 @@ Create a virtual environment (This only needs to be done once in a given project
 Set the environment in jupyter notebook
 
 1. Open the jupyter notebook of your choice.
-2. ![Step1](./assets/venv-jupyter-step1.png)
-3. ![Step2](./assets/venv-jupyter-step2.png)
-4. ![Step3](./assets/venv-jupyter-step3.png)
+2. ![Step1](../assets/venv-jupyter-step1.png)
+3. ![Step2](../assets/venv-jupyter-step2.png)
+4. ![Step3](../assets/venv-jupyter-step3.png)
