@@ -2,6 +2,7 @@
 
 - [Getting Started](#getting-started)
 - [Basics](#basics)
+  - [Markdown](#markdown)
   - [Virtual Environment](#virtual-environment)
 - [Resources](#resources)
 
@@ -10,6 +11,14 @@
 Installing basic python and the VSCode (refer to [install.md](./instructions/install.md) for installation instructions) should set up all the fundamentals to get started with your programming. The combination of two softwares should let you open and work with a myriad of file extensions including, but not limited to: Python files(`.py`), Jupyter Notebooks(`.ipynb`), Markdown(`.md`), etc
 
 # Basics
+
+## Markdown
+
+Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Markdown is now one of the world’s most popular markup languages.
+
+- [Dillinger](https://dillinger.io/) - An online Markdown editor.
+- [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+- [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
 ## Virtual Environment
 
