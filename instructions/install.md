@@ -3,7 +3,6 @@
 - [Installing Python](#installing-python)
 - [VSCode](#vscode)
 
-
 # Installing Python
 
 1. [Download the latest version of Python](https://www.python.org/downloads/) directly from python.org and run the `.exe` file.

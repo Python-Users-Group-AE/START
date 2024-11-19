@@ -16,13 +16,13 @@ A Python virtual environment, often referred to as `venv`, is a tool that helps 
 
 ## Why
 
-- Futureproofing. For ex. if you use `pandas` and the library removes or renames a function a year from now, it can break all your existing projects or scripts. By creating venv for each project, it prevents the version of libraries from being overridden.
-- Disk Space. If you install all python packages directly to home directory, then over time, they will just accumulate and constantly take up more space in your hard disk. `venv` on the otherhand can easily be wiped when and as needed.
-- Managing multiple projects. Say you have 2 projects (P1 and P2). P1 was written with `pandas` version `1.1.5` but P2 requires `pandas` version `2.0.1` because you want to use a new function that was added to the latest version. Normally installing one will wipe the other, but venv lets you keep and use them both.
+- **Futureproofing:** For ex. if you use `pandas` and the library removes or renames a function a year from now, it can break all your existing projects or scripts. By creating venv for each project, it prevents the version of libraries from being overridden.
+- **Disk Space:** If you install all python packages directly to home directory, then over time, they will just accumulate and constantly take up more space in your hard disk. `venv` on the otherhand can easily be wiped when and as needed.
+- **Managing multiple projects:** Say you have 2 projects (P1 and P2). P1 was written with `pandas` version `1.1.5` but P2 requires `pandas` version `2.0.1` because you want to use a new function that was added to the latest version. Normally installing one will wipe the other, but venv lets you keep and use them both.
 
 ## When
 
-You should use virtual environment, if you are installing external package.
+If you are installing external package, You should use virtual environment.
 
 ## How
 
